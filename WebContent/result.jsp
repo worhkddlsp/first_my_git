@@ -10,6 +10,8 @@
 <body>
 	<ul>
 		<li>첫번째 리스트</li>
+		<li>두번째 리스트</li>
+		<li>세번째 리스트</li>
 	</ul>
 </body>
 <script></script>
