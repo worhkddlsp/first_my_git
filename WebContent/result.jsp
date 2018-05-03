@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+	pageEncoding="UTF-8"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,9 +8,11 @@
 <style></style>
 </head>
 <body>
-	<ul>
-		<li>첫번째 리스트</li>
-	</ul>
+	<ol>
+		<li>list1</li>
+		<li>list2</li>
+		<li>list3</li>
+	</ol>
 </body>
 <script></script>
 </html>
