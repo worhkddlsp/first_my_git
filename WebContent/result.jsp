@@ -17,6 +17,7 @@
 		<li>list6</li>
 		<li>list7</li>
 	</ol>
+	<p>리스트 마감</p>
 </body>
 <script></script>
 </html>
